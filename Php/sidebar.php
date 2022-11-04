@@ -1,0 +1,1 @@
+<td id = "sidebar"><?= $sidebarText ?></td>
